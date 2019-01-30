@@ -18,9 +18,8 @@ Um script que quando rodado, acessa os Dados Abertos do Governo, para buscar as 
 
 #### Desenvolvedor
 
-- Víctor Romário Paz de Jesus
-Para o curso "Python: do zero ao avançado"
+- Mariana Mattos
 
 # License
-**Free Software!**
+**Free Software! YAY!**
 
